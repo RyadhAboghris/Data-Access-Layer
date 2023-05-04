@@ -1,0 +1,14 @@
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\bin\Debug\Data Access Layer.exe.config
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\bin\Debug\Data Access Layer.exe
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\obj\Debug\Data_Access_Layer.PL.FRM_MAIN.resources
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\obj\Debug\Data_Access_Layer.Properties.Resources.resources
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.csproj.GenerateResource.cache
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.exe
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\bin\Debug\DBSTUDENT.mdf
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\bin\Debug\DBSTUDENT_log.ldf
+C:\Users\ryadh\Desktop\Projects\U\Data Access Layer\Data Access Layer\obj\Debug\Data_Access_Layer.PL.FRM_LOGIN.resources
